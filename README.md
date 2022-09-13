@@ -91,4 +91,4 @@ I'm Marta Boteller, little more about me at my [website](https://martaboteller.c
 
 ## Acknowledgments
 
-<p>I would like to thank <a href="https://www.linkedin.com/learning/react-authentication">Shaun Wassell </a> for his fantastic way of theaching!
+<p>I would like to thank <a href="https://www.linkedin.com/learning/react-authentication">Shaun Wassell </a> for his fantastic way of teaching!
